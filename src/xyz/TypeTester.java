@@ -3,39 +3,39 @@ package xyz;
 public class TypeTester {
 
 	public void printType(byte input) {
-		System.out.println("byte");
+		System.out.print("byte");
 	}
 
 	public void printType(short input) {
-		System.out.println("short");
+		System.out.print("short");
 	}
 
 	public void printType(int input) {
-		System.out.println("int");
+		System.out.print("int");
 	}
 
 	public void printType(long input) {
-		System.out.println("long");
+		System.out.print("long");
 	}
 
 	public void printType(float input) {
-		System.out.println("float");
+		System.out.print("float");
 	}
 
 	public void printType(double input) {
-		System.out.println("double");
+		System.out.print("double");
 	}
 
 	public void printType(char input) {
-		System.out.println("char");
+		System.out.print("char");
 	}
 
 	public void printType(boolean input) {
-		System.out.println("boolean");
+		System.out.print("boolean");
 	}
 
 	public void printType(String input) {
-		System.out.println("String");
+		System.out.print("String");
 	}
 	
 	
