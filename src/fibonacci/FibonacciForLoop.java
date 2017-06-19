@@ -2,20 +2,20 @@ package fibonacci;
 
 public class FibonacciForLoop {
 
-	static int x = 0;
-	static int y = 1;
-	static int z = 1;
-	static int UpTill = 5;    //specify how far do you want your array to be?
+	static long x = 0;
+	static long y = 1;
+	static long z = 1;
+	static long UpTill = 5;    //specify how many places should the sequence count up to?
 
 	public static void main(String[] args) {
 
-		System.out.print(x+" ");
+		System.out.println(x+" ");
 
-		for (int i = 0; i < UpTill; i++) {
+		for (long i = 2; i <= UpTill; i++) {
 			
-			System.out.print(z+" ");
+			System.out.println(z+" ");
 			z=x+y;
-			x = y;
+			x = y;	
 			y = z;
 			
 
