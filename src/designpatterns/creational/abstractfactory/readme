@@ -1,0 +1,37 @@
+PACKAGE KEY:
+
+client: Contains the client class which uses the factory creator/producer.
+factory_producer: gets the requested factory by asking AbstractFactory
+
+abstract_factory : Contains an abstract class w/ abstract methods.
+factory_classes: contains the (shape) factory which extends AbstractFactory.
+
+interfaces: contains incomplete methods which are defined in the concrete classes 
+concrete_classes_shapes: Contains the actual implementations.
+
+
+CREATION:
+
+[step 1]
+"interface" - Shape
+implemented by
+"concrete classes" -  Circle, Rectangle, Square
+
+[step 2]
+"abstract class" - AbstractFactory
+extended by 
+"factory class" - ShapeFactory
+
+[step 3]
+"factory producer" - FactoryProducer
+
+[step 4]
+"client" - AbstractFactoryClient
+
+
+USAGE:
+
+The client calls the FactoryProducer, which calls the AbstractFactory class.
+The AbstractFactory class is extended by Factory Classes (eg. ShapeFactory)
+The Factory Classes create objects of concrete classes: (e.g. Circle, Square, etc.)
+These concrete classes are implementing an interface (eg. Shape, Color, etc.)
