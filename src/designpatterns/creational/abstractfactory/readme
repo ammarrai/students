@@ -1,12 +1,23 @@
+What is the Abstract Factory Design pattern?
+
+Abstract Factory patterns work around a super-factory which creates other factories.
+This factory is also called as factory of factories. 
+This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+
+Abstract Factory Pattern says that just define an interface or abstract class for creating families of related (or dependent) objects
+but without specifying their concrete sub-classes.That means Abstract Factory lets a class returns a factory of classes.
+
+
+
 PACKAGE KEY:
 
 client: Contains the client class which uses the factory creator/producer.
 factory_producer: gets the requested factory by asking AbstractFactory
 
-abstract_factory : Contains an abstract class w/ abstract methods.
+abstract_factory : Contains an abstract class w/ abstract methods which create factories
 factory_classes: contains the (shape) factory which extends AbstractFactory.
 
-interfaces: contains incomplete methods which are defined in the concrete classes 
+interfaces: contains incomplete methods which are implemented in the concrete classes 
 concrete_classes_shapes: Contains the actual implementations.
 
 
