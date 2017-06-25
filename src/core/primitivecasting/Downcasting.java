@@ -1,4 +1,4 @@
-package primitivecasting;
+package core.primitivecasting;
 
 import xyz.TypeTester;
 

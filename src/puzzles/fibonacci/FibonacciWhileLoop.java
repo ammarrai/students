@@ -1,4 +1,4 @@
-package fibonacci;
+package puzzles.fibonacci;
 
 
 public class FibonacciWhileLoop {
