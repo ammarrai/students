@@ -1,4 +1,4 @@
-package core.conditional;
+package core.controlflow;
 
 public class IfElseBlockStatement {
 

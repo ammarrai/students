@@ -12,6 +12,8 @@ public class MultiDimensionalArray {
 
 		// initialize array
 		multiDimen[0][0][0] = "bob";
+		multiDimen[0][0][1] = "jim";
+		multiDimen[0][0][2] = "tim";
 		
 	}
 }

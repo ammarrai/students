@@ -1,4 +1,4 @@
-package core.conditional;
+package core.controlflow;
 
 // a nested if similar to using an && operator.. except we can string more than 2 conditions
 
