@@ -4,7 +4,7 @@ package core.loops.enhanced_for;
 
 // note: the colon : should be read as "in"
 
-public class EnhancedForExample {
+public class EnhancedForLoop {
 
 	public static void main(String[] args) {
 
