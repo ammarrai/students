@@ -1,4 +1,4 @@
-package core.loops.enhanced_for;
+package core.controlflow.loops.enhanced_for;
 
 // used to iterate over arrays and collections; AKA: for-each loop
 

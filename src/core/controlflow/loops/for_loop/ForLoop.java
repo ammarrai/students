@@ -1,4 +1,4 @@
-package core.loops.for_loop;
+package core.controlflow.loops.for_loop;
 
 // It is used mostly for counter-controlled loops
 // When the # of iterations is known before-hand

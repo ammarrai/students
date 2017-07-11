@@ -1,4 +1,4 @@
-package core.loops.do_while_loop;
+package core.controlflow.loops.do_while_loop;
 
 public class DoWhileLoopExample {
 

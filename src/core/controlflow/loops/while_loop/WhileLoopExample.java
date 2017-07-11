@@ -1,4 +1,4 @@
-package core.loops.while_loop;
+package core.controlflow.loops.while_loop;
 
 public class WhileLoopExample {
 
