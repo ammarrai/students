@@ -2,6 +2,8 @@ package math.percentage.operations;
 
 import java.util.Scanner;
 
+import math.percentage.EndOfCalculation;
+
 public class One {
 
 	public void calculateOne() {
@@ -14,11 +16,11 @@ public class One {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the % value:");
 
-		x = input.nextInt();
+		x = input.nextDouble();
 		System.out.println("Enter the value of y");
-		y = input.nextInt();
+		y = input.nextDouble();
 
-		input.close();
+		//input.close();
 		
 		// calculation
 		x = x / 100;
@@ -26,6 +28,10 @@ public class One {
 
 		System.out.println(z);
 
+		// clean-up
+		EndOfCalculation eoc = new EndOfCalculation();
+		eoc.endOfCalculation();
+		
 	}
 
 }

@@ -1,20 +1,21 @@
 package math.percentage;
 
-import math.percentage.operations.One;
-import math.percentage.operations.Two;
-import math.percentage.operations.Three;
-import math.percentage.operations.Four;
-import math.percentage.operations.Five;
-import math.percentage.operations.Six;
-
 import java.util.Scanner;
+
+import math.percentage.operations.Five;
+import math.percentage.operations.Four;
+import math.percentage.operations.One;
+import math.percentage.operations.Six;
+import math.percentage.operations.Three;
+import math.percentage.operations.Two;
 
 public class OperationSelector {
 
 	byte selection;
 
-	void selectOperation() {
+	public void selectOperation() {
 
+		System.out.println("***********************************************");
 		System.out.println("(1) What is x% of y?");
 		System.out.println();
 		System.out.println("(2) x is what % of y?");
@@ -27,12 +28,11 @@ public class OperationSelector {
 		System.out.println();
 		System.out.println("(6) x decreased by y% is what #?");
 		System.out.println();
-		System.out.println("Enter the type of operation you want:");
+		System.out.println("PICK AN OPERATION:");
 
-		
 		Scanner scannerobj = new Scanner(System.in);
 		selection = scannerobj.nextByte();
-		
+
 		switch (selection) {
 
 		case 1: {
@@ -81,6 +81,14 @@ public class OperationSelector {
 		}
 			break;
 
+		default: {
+
+			selectOperation();
+			{
+
+			}
+
+		}
 		}
 	}
 }

@@ -2,6 +2,8 @@ package math.percentage.operations;
 
 import java.util.Scanner;
 
+import math.percentage.EndOfCalculation;
+
 public class Four {
 
 	public void calculateFour() {
@@ -15,15 +17,19 @@ public class Four {
 
 		
 		System.out.println("Enter the value of x:");
-		x = input.nextInt();
+		x = input.nextDouble();
 		System.out.println("Enter the value of y");
-		y = input.nextInt();
+		y = input.nextDouble();
 
-		input.close();
+		//input.close();
 		
 		//calculation
 		z = Math.abs(x - y) / 2;
-		System.out.println(z);
+		System.out.println("The difference between x and y is "+ z +" percent");
+
+		// clean-up
+		EndOfCalculation eoc = new EndOfCalculation();
+		eoc.endOfCalculation();
 	}
 
 }
