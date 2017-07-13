@@ -2,8 +2,8 @@ package core.variables;
 
 public class Birds {
 
-	String type = "soaring"; // instance variable - not inside a method
-	int size;               // instance variable - not inside a method
+private String type = "soaring"; // instance variable - not inside a method / should be private
+private int size;               // 
 
 	public static void main(String[] arg) {
 

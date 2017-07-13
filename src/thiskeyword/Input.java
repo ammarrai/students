@@ -1,6 +1,7 @@
 package thiskeyword;
 
-import java.util.Scanner;
+import java.util.*;
+import java.io.*;
 
 public class Input {
 
@@ -12,7 +13,7 @@ public class Input {
 	
 	void takeInput() {
 	Scanner input = new Scanner(System.in);
-	fuel = input.
+	input.nextLine();
 	
 	
 	}

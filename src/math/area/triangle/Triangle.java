@@ -8,7 +8,7 @@ public class Triangle {
 	void findTriangleArea (double base, double height) {
 
 		result = (base*height)/2;
-		System.out.println(result);
+		System.out.println("The area of the triangle is:" +result);
 		
 		
 	}
