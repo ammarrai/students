@@ -1,4 +1,4 @@
-package core.constructors.flight;
+package core.constructorsandinitializers.initializers.flight;
 
 public class Flight {
 

@@ -1,4 +1,4 @@
-package core.constructors;
+package core.constructorsandinitializers.initializers;
 
 public class InitializationBlock {
 	

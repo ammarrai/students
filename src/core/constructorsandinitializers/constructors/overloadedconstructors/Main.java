@@ -1,6 +1,6 @@
-package core.constructors.overloadedconstructors;
+package core.constructorsandinitializers.constructors.overloadedconstructors;
 
-import core.constructors.flight.Flight;
+import core.constructorsandinitializers.initializers.flight.Flight;
 
 public final class Main {
 	private Main() {

@@ -1,4 +1,4 @@
-package core.constructors;
+package core.constructorsandinitializers.constructors;
 public class DefaultConstructor {
 
 	DefaultConstructor() { // This is a default constructor. It "steps in" before a new object is instantiated

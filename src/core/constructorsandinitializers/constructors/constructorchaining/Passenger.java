@@ -1,4 +1,4 @@
-package core.constructors.constructorchaining;
+package core.constructorsandinitializers.constructors.constructorchaining;
 
 public class Passenger {
 	// instance variables

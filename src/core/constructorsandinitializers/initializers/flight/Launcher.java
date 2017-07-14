@@ -1,4 +1,4 @@
-package core.constructors.flight;
+package core.constructorsandinitializers.initializers.flight;
 
 public final class Launcher {
 	private Launcher() {                // prevents anyone from accidently creating a Main/launcher
