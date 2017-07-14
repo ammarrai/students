@@ -1,7 +1,7 @@
 package core.constructors.flight;
 
-public final class Main {
-	private Main() {                // prevents anyone from accidently creating a Main/launcher
+public final class Launcher {
+	private Launcher() {                // prevents anyone from accidently creating a Main/launcher
 	}
 
 	public static void main(String[] args) {

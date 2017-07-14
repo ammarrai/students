@@ -1,0 +1,16 @@
+Modeling the Connections:
+	Reflexive:  p is connected to p.
+	Symmetric: if P is connected to Q, then Q is connected to P.
+	Transitive: if P is connected to q AND Q is connected to R ,then P is connected to R.
+	
+	
+Connected Components
+	Maximal set of objects that are mutually connected.
+	
+	
+	
+Implementing the operations:
+
+Find query: check if two objects are in the same component.
+
+Union command: replace components containing two objects with their union.

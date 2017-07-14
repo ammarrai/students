@@ -1,0 +1,21 @@
+constructors:
+
+They execute code used during object creation 
+to set the initial state of the object.
+
+- have no return type
+- every class has at least one constructor if no explicit constructor is provided.
+
+- a class can have multiple constructors - each w/ its own parameter list/signature
+
+- once you write any constructor, you are not responsible for ALL the constructors
+
+
+Constructor Chaining:
+
+	ex: public Passenger (int freeBags, int checkedBags) {
+	    this(freeBags);
+	    this.checkedBags = checkedBags;
+	    }
+	    
+	    

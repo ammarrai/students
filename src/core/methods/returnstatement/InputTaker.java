@@ -11,7 +11,7 @@ public class InputTaker {
 
 		// scanner input
 		Scanner scannerObject = new Scanner(System.in);
-		userInput = scannerObject.nextLine();
+		userInput = scannerObject.next();
 		scannerObject.close();
 
 		// call processorInput method and pass userInput

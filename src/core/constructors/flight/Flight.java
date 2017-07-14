@@ -11,6 +11,7 @@ public class Flight {
 		seats = 150;
 		passengers = 0;
 	}
+	
 
 	//methods
 	private void handleTooMany() { // definition of handleTooMany method
