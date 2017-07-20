@@ -9,4 +9,4 @@ public class FieldInitializers {
 
 
 
-// Nothing complicated here. A field is simply being initialized.
+// Nothing complicated here. A fields are simply being initialized.

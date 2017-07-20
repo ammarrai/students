@@ -1,4 +1,4 @@
-package thiskeyword;
+package core.thiskeyword;
 
 import java.util.*;
 import java.io.*;

@@ -18,4 +18,11 @@ Constructor Chaining:
 	    this.checkedBags = checkedBags;
 	    }
 	    
-	    
+	   
+The order in which the fields get set are:
+
+	1. field initialization in the initial declaration
+	
+	2. initialization block { }
+
+	3. In the constructor

@@ -1,4 +1,4 @@
-package thiskeyword;
+package core.thiskeyword;
 
 public class Launcher {
 
