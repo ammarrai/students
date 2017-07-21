@@ -1,4 +1,4 @@
-package core.methods.returnstatement;
+package core.methods.returnstatement.inputtaker;
 
 import java.util.Scanner;
 
