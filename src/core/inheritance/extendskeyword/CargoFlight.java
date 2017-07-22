@@ -1,4 +1,4 @@
-package core.inheritance;
+package core.inheritance.extendskeyword;
 
 public class CargoFlight extends Flight {
 
@@ -24,3 +24,10 @@ public class CargoFlight extends Flight {
 	}
 
 }
+
+
+/* Please note that while a CargoFlight instance will inherit the behaviors of Flight,
+ * a instance of type Flight will not have the behaviors of CargoFlight 
+ */
+
+ 

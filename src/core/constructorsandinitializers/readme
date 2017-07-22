@@ -26,3 +26,9 @@ The order in which the fields get set are:
 	2. initialization block { }
 
 	3. In the constructor
+	
+
+	
+In Java, constructors are NOT inherited!!!
+Each class is responsible for defining its own constructors.
+However, a derived class must call ONE of the base class constructors. 

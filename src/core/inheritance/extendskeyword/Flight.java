@@ -1,4 +1,4 @@
-package core.inheritance;
+package core.inheritance.extendskeyword;
 
 import core.constructorsandinitializers.constructors.constructorchaining.Passenger;
 
