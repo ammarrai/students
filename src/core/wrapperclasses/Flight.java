@@ -38,4 +38,12 @@ public class Flight {
 /*
  * overriden toString method to provide validation checking and the ability to
  * return the appropriate variable with the toString applied to it.
+ * 
+ * http://bit.ly/javabyte
+ * http://bit.ly/javashort
+ * http://bit.ly/javainteger
+ * http://bit.ly/javalong
+ * 
+ * 
+ * 
  */

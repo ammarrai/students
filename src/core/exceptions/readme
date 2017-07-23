@@ -1,15 +1,11 @@
-unfinished business:
+try: normal code ; which we expect to go well
 
-core.methods.returnstatement
-	fix Inputs.java (create a proper Scanner utility class
-	
-core.stringbuilder
-    solidify understanding / implement toString here properly
-	
-	
-core.exceptions.example
-	Test.java does not work as expected.
-	
+catch: contains the error handling code; block executes only  if matching exception is thrown
+
+finally: contains clean-up code if needed. runs after try block finishes, or catch block finishes.
+         it is ensured to run
+
+
 	
 	
 	Object 
@@ -43,5 +39,12 @@ core.exceptions.example
     	First assignable catch is selected
     	
     	Catch blocks should be started with the most specific exception types first and get more general as we go       down.
-    	
-    	
+    
+   Exceptions propogate up the call-stack (cross method boundaries) looking to see if maybe some
+   method up the call stack can handle the exception.
+   
+   A method is responsibile for any checked exceptions that might occur.
+   either it should catch the exception, or document that the exception might occur.
+   (using a throws clause)
+   
+   
