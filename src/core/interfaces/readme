@@ -1,0 +1,13 @@
+an interface defines a contract - they do not provide any implementation.
+
+classes that implement interfaces indicate that they confirm to a contract.
+
+interfaces don't limit other aspects of a class' implementation.
+
+The java.lang.Comparable interface is used for comparing relative order.
+compareTo : receives item to compare to.
+Return indicates current instance relative sequence.
+Negative value: current instance comes before 
+Positive value: current instance comes after
+Zero value: equal
+
