@@ -4,8 +4,7 @@ This code example shows us how to:
 
 2. add objects into our ArrayList
 
-3. Show how ArrayList implements a toString method
-and prints out objects in turn
+3. Show how ArrayList implements a toString method and prints out objects in turn
 
 4.Show how a for each loop is more suited to iterate over things
 
