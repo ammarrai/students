@@ -1,11 +1,11 @@
-package testing.warburton.tests;
+package testing.warburton.cafe.tests;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import testing.warburton.Cafe;
-import testing.warburton.Coffee;
-import testing.warburton.CoffeeType;
+import testing.warburton.cafe.Cafe;
+import testing.warburton.cafe.Coffee;
+import testing.warburton.cafe.CoffeeType;
 
 public class CafeTest {
 

@@ -1,4 +1,4 @@
-package testing.warburton;
+package testing.warburton.cafe;
 
 /**
  * Describes the type of coffee that we're going to serve.
