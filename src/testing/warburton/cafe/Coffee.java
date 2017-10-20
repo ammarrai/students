@@ -1,4 +1,4 @@
-package testing.warburton;
+package testing.warburton.cafe;
 
 /**
  * An individual coffee that has been served.

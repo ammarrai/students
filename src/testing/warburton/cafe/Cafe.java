@@ -1,4 +1,4 @@
-package testing.warburton;
+package testing.warburton.cafe;
 
 /**
  * A coffee shop that can brew coffee and maintains an internal stock of beans
