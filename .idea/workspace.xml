@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/students.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/collections/warburton/commongotcha/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/collections/warburton/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructorchaining/constructorchaining" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/equality/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/exceptions/example/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/exceptions/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/fields/finalfields/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/fields/staticfinalfield/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/inheritance/abstractkeyword/abstract methods" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/inheritance/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/interfaces/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/statickeyword/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticimport/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticinitializationblock/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/stringbuilder/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/core/wrapperclasses/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/designpatterns/behavioral/observer/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/designpatterns/creational/abstractfactory/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/production/students/designpatterns/creational/factorymethod/readme" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/core/multithreading/demo1/Runner.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/threesum/In.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/threesum/StdOut.java" afterPath="" />
@@ -333,12 +360,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510871709014</updated>
       <workItem from="1510871711863" duration="2858000" />
-      <workItem from="1510874704284" duration="1397000" />
+      <workItem from="1510874704284" duration="1425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4255000" />
+    <option name="totallyTimeSpent" value="4283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
