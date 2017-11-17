@@ -1,0 +1,23 @@
+Each primitive type has a corresponding wrapper class
+
+
+Character
+Boolean
+
+
+abstract class Number
+			   Byte
+			   Short
+			   Integer
+			   Long
+			   Float
+			   Double
+			   
+			   
+			   
+all wrapper classes are immutable.
+
+we often have to convert between primitives and wrapper classes.
+common scenarios are automatically handled by java.
+
+Integer a = 100;

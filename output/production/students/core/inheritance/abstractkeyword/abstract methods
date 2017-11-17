@@ -1,0 +1,2 @@
+abstract requires you to use inheritance and requires that the methods
+are defined in subclasses.

@@ -1,0 +1,70 @@
+try: normal code ; which we expect to go well
+
+catch: contains the error handling code; block executes only  if matching exception is thrown
+
+finally: contains clean-up code if needed. runs after try block finishes, or catch block finishes.
+         it is ensured to run
+
+
+	
+	
+	Object 
+	 |
+	Throwable    ----------------------------- Exception (we interact with these more often)------- Checked
+    	|                                          |                                                    Exceptions
+    	|                                          Runtime Exception (Commonly rep. errors in your program)
+    	Error (virtual machine related errors)     |
+    	e.g. LinkageError                           e.g. NullPointerException
+
+    	
+    	Checked Exceptions are very important:
+    	e.g. IOException 
+    	You have to handle all checked exceptions
+    	
+    	Unechecked exceptions/Runtime exceptions - 
+    	You can handle these, but the compiler doesn't require that you do so.
+    	
+    	Any exception class that inherits from RuntimeException is a checked exception
+    	
+    	Any exception class that inherits from Exception, but not RunTimeException is considered a checked exception
+    	
+    	Virtual machine errors are treated as unchecked exceptions - The compiler does not require that you handle those.
+    	
+    	
+    	Exceptions can be handlbed by type
+    	Each exception type can have a separate catch block.
+    	
+    	Each catch is tested in order from top to bottom. 
+    	
+    	First assignable catch is selected
+    	
+    	Catch blocks should be started with the most specific exception types first and get more general as we go       down.
+    
+   Exceptions propogate up the call-stack (cross method boundaries) looking to see if maybe some
+   method up the call stack can handle the exception.
+   
+   A method is responsibile for any checked exceptions that might occur.
+   either it should catch the exception, or document that the exception might occur.
+   (using a throws clause)
+   
+   
+   The throws clause of an overriding method must be compatible with the throws clause of the method
+   being overriden.
+   
+   When caused by another exception, include originating exception.
+   all exception classes support initCause method.
+
+Many provide a constructor which accepts the originating exception
+
+In most cases, it's better to use existing exception type.
+
+Exception we define will become "Checked exceptions"
+
+You can create your own custom exception types
+	In most cases better to use existing exception type
+	Constructors are often their only members.
+		1. constructor  that accept required details
+		2. constructor that accepts required details  and originating exception.
+		
+   
+   

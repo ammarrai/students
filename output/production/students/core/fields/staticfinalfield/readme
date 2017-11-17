@@ -1,0 +1,4 @@
+static final fields create "named constants"
+
+a static final field cannot be changed in ANY object instance.
+It's value is actually tied to the class itself.

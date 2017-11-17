@@ -1,0 +1,8 @@
+In our Test.java example, notice that the following line is placed outside the try {} block
+
+		BufferedReader reader = null;
+
+The reason behind this is so that we can close the reader insstance in the finally{} block.
+
+Think about "block scope."
+

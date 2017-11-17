@@ -1,0 +1,2 @@
+StringBuilder provides us a mutable string Buffer
+for best performance,pre-size the buffer

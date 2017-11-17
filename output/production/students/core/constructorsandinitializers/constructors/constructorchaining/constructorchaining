@@ -1,0 +1,1 @@
+When one constructor calls another constructor, the call must be the FIRST line in the calling consturctor.
