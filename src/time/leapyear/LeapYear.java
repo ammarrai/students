@@ -2,7 +2,7 @@ package time.leapyear;
 
 public class LeapYear {
 
-	static int year = 2016;
+	static int year = 2017;
 
 	public static void main(String[] args) {
 
