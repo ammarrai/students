@@ -1,6 +1,6 @@
 package coursera;
 
-public class ForEachLoops {
+public class FindAndReplaceChar {
 
     public static String replace(String word, char undesiredChar, char replacementChar) {
 
