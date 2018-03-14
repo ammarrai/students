@@ -1,4 +1,4 @@
-package coursera;
+package coursera.findandreplacecharacter;
 
 public class Main {
 
