@@ -1,4 +1,4 @@
-package coursera.findandreplacecharacter;
+package coursera.FindAndReplaceCharacter;
 
 public class FindAndReplaceChar {
 

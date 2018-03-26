@@ -1,4 +1,4 @@
-package coursera.equalsequalsoperator;
+package coursera.EqualsEqualsOperator;
 
 public class NewStrings {
 
