@@ -2,32 +2,31 @@ package algorithms.sorting;
 
 public class Sorting {
 
-    static String selectionSort(String input) {
+    static char[] selectionSort(String input) {
 
-        String everythingSorted = null;
 
         char myCharArray[] = input.toCharArray();
 
-        for (int i = 0; i <= myCharArray.length; i++) {
+        for (int h = 0; h < myCharArray.length - 1; h++) {
 
-            if (myCharArray[i] > myCharArray[i + 1]) {
+            for (int i = 0; i < myCharArray.length - 1; i++) {
 
-                char placeholder;
+                if (myCharArray[i] > myCharArray[i + 1]) {
 
-                placeholder = myCharArray[i];
+                    char placeholder;
 
-                myCharArray[i] = myCharArray[i + 1];
+                    placeholder = myCharArray[i];
 
-                myCharArray[i + 1] = placeholder;
+                    myCharArray[i] = myCharArray[i + 1];
+
+                    myCharArray[i + 1] = placeholder;
+                }
+
             }
-
-            everythingSorted = myCharArray.toString();
-
         }
 
-        System.out.println(everythingSorted);
-        return everythingSorted;
+        System.out.println(myCharArray);
+        return myCharArray;
 
     }
-
 }

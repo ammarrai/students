@@ -4,7 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Sorting.selectionSort("654321");
+        Sorting.selectionSort("6644212");
+
+
 
     }
 }
