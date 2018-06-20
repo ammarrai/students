@@ -12,8 +12,7 @@ public class CountSpacesAndReplace {
             if (letters[i] == ' ') {
                 letters[i] = '_';
                 x++;
-            }
-        }
+            }        }
 
 
         System.out.println("s(original String): " + s);  // our original String
