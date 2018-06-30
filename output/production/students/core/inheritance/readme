@@ -1,6 +1,0 @@
-However, a derived class must call ONE of the base class constructors.
-
-by default, base class's no-argument constructor is called.
-
-However, we can explicitly call a base class constructor using super followed by parameter list.
-must be first line of constructor

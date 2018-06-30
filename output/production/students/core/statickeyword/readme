@@ -1,6 +1,0 @@
-static members are shared class-wide
-not associated with any instance, so can be accessed using the Class name :D
-
-Each instance of the class will access the same value
-
-static method performs an action not tied to a specific instance. can access static fields only.

@@ -2,219 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/students.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/students.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/Sorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Strings/StringEquivalency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/AnonymousArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/LoopThroughTwoArraysAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/MultiDimensionalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/OneDimensionalIntArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/OneDimensionalStringArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/SumUpValuesInAnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/array/TwoDimensionalStringArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/CollectionConcepts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/CollectionConcepts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/lists/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/lists/Shipment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/DefaultConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/DefaultConstructorAsCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructorchaining/Passenger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructorchaining/constructorchaining" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/overloadedconstructors/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/overloadedconstructors/OverloadedConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/InitializationBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/fieldinitializers/FieldInitializers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/flight/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/flight/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/initializerblock/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/FlightMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/variablenumberofparameters/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElseBlockStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElseChained.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/NestedIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/SwitchStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/Ternary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/do_while_loop/DoWhileLoopExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/enhanced_for/EnhancedForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/for_loop/ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/while_loop/WhileLoopExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/datatypes/Datatypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/encapsulation/gettersandsetters/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/equality/equalityoperator/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/equality/equalsmethod/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/equality/overriddenequalsmethod/Complex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/equality/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/exceptions/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/exceptions/example/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/exceptions/example/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/exceptions/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/exceptions/throwskeyword/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/Birds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/Passenger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/CrewMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/FlightCrewJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/staticfinalfield/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/fields/staticfinalfield/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/generics/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/generics/Olive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/CargoOnlyPilot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/FullLicensePilot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/Pilot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/abstract methods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/CargoFlight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/FlightMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/extendskeyword/CargoFlight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/extendskeyword/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/finalkeyword/FinalMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/finalkeyword/Passenger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/inheritance/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/interfaces/comparable/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/interfaces/comparable/Passenger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/interfaces/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/logicaloperators/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/loops/forloop/ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/InputTaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/Processor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/returnboolean/CargoFlight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/multithreading/demo1/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/primitivecasting/Downcasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/primitivecasting/Downcasting_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/NumberOfCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSentences/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSentences/NumberOfSentences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSyllables/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSyllables/NumberOfSyllables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfWords/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/regex/test/TestRegex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/scanner/SystemIn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/scratch/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/scratch/Scratch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticinitializationblock/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticvariable/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticvariable/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/stringbuilder/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/stringbuilder/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/stringclass/ConvertNonStringTypetToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/stringclass/StringEquality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/stringclass/tostring/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/superkeyword/Complex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/CarMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Equality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Wrappers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/EqualsEqualsOperator/NewStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/FindAndReplaceChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/HasLetter/HasLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/HasLetter/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/stringconcat/Concatenation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/GrabStocks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/StockGrabber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/StockObserver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/abstract_factory/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/client/AbstractFactoryClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/factory_classes/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/factory_producer/FactoryProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/interfaces/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/abstract_superclass/Plan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/client/GenerateBill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/CommercialPlan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/DomesticPlan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/NonProfitPlan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/factory/GetPlanFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/singleton/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/singleton/SingletonInstantiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/one/FirstRecurringCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/IsUniqueCharacterUsingSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/set/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/area/square/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/area/square/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/exponents/FunWithExponents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/EndOfCalculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/OperationSelector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Five.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Four.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/One.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Six.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Three.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Two.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/systemofequations/SystemOfEquations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/HalfSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/SidewaysTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/FibonacciForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/FibonacciWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/IsThisNumberFibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/puzzles/puzzlers/CostOfApple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/olives/Olive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/olives/OliveName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/isunique/test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/isunique/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spraul/luhnvalidation/Luhn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spraul/luhnvalidation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/time/leapyear/LeapYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/time/leapyear/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variablescope/VariableScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/ConsoleColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/ObjectSwapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/TypeTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/collections/warburton/commongotcha/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/collections/warburton/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructorchaining/constructorchaining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/equality/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/exceptions/example/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/exceptions/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/fields/finalfields/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/fields/staticfinalfield/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/inheritance/abstractkeyword/abstract methods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/inheritance/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/interfaces/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticimport/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticinitializationblock/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/stringbuilder/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/core/wrapperclasses/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/behavioral/observer/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/creational/abstractfactory/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/creational/factorymethod/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/resources/isunique/test1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/students/resources/isunique/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructures/LinkedList/Doubly/TestDoublyLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -225,7 +46,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FirstRecurringCharacter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/FirstRecurringCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsUniqueCharacterUsingBooleanArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Datatypes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/core/datatypes/Datatypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -246,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/core/scratch/Scratch.java" />
-        <option value="$PROJECT_DIR$/src/coursera/Main.java" />
         <option value="$PROJECT_DIR$/src/core/scratch/Main.java" />
         <option value="$PROJECT_DIR$/src/coursera/ForEachLoops.java" />
         <option value="$PROJECT_DIR$/src/coursera/FindAndReplaceChar.java" />
@@ -297,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -351,6 +218,89 @@
               <item name="students" type="b2602c69:ProjectViewProjectNode" />
               <item name="students" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Doubly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="isunique" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="isunique" type="462c0819:PsiDirectoryNode" />
+              <item name="booleanarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Doubly" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -387,11 +337,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../aspr" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -423,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CostOfApple">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -438,13 +388,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HalfSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="puzzles.PrintLoops.HalfSquare" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.one.isunique.booleanarray.Main" />
       <module name="students" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="puzzles.PrintLoops.*" />
+          <option name="PATTERN" value="interview.one.isunique.booleanarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,18 +499,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.SidewaysTriangle" />
-      <item itemvalue="Application.HalfSquare" />
       <item itemvalue="Application.Triangle" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.CostOfApple" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.CostOfApple" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SidewaysTriangle" />
         <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.HalfSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -610,41 +560,42 @@
       <workItem from="1529872093262" duration="10451000" />
       <workItem from="1530064997955" duration="1039000" />
       <workItem from="1530385184945" duration="6301000" />
-      <workItem from="1530399511670" duration="626000" />
+      <workItem from="1530399511670" duration="1831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144671000" />
+    <option name="totallyTimeSpent" value="145876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.250423" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="right" id="Flutter Outline" order="5" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22638564" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.108333334" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43485618" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.18443316" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.250423" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22638564" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4357067" />
       <window_info anchor="right" id="Flutter Inspector" order="5" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.18597236" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -694,41 +645,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/IsUniqueCharacterUsingSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/set/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/ConsoleColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designpatterns/behavioral/observer/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/scratch/Scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/scratch/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -754,13 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -998,52 +907,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructures/LinkedList/Doubly/TestDoublyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/ConsoleColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/TypeTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/FirstRecurringCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/datatypes/Datatypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -1087,7 +1038,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>JDK 9</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1123,6 +1074,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

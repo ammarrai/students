@@ -1,9 +1,0 @@
-constructors are not inherited.
-a base class constructor must always be called.
-
-by default, base class' no argument constructor is called.
-
-BUT you *can* call a constructor if you want to by using the super notation followed by the parameter list
-for the base class constructor you want to call.
-
-This must be the first line in your constructor.	
