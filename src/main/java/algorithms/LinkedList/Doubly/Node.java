@@ -14,16 +14,27 @@ Much slower than an ArrayList
 
 public class Node<E> {
 
-    Node<E> prev;
+    //iv
     Node<E> next;
+    Node<E> prev;
     E data;
 
 
-    public Node(E theData) {
 
-        this.data = theData;
+    //c
+    public Node(E data) {
+
+        this.data = data;
     }
 
+
+    public E get(int index) throws IndexOutOfBoundsException {
+
+        return data;
+    }
+
+
+    //g&s
     public Node<E> getPrev() {
         return prev;
     }

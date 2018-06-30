@@ -7,14 +7,14 @@ package algorithms.LinkedList.Doubly;
 public class MyLinkedList<E> {
 
 
-    private Node<E> head;
+    private Node<E> head;                      // these point to sentinel nodes...
     private Node<E> tail;
     private int size;
 
     //c
     public MyLinkedList() {
 
-        head = new Node<E>(null);
+        head = new Node<E>(null);        // sentinel nodes with null data...
         tail = new Node<E>(null);
         size = 0;
         head = head.next = tail;
@@ -22,43 +22,52 @@ public class MyLinkedList<E> {
     }
 
     //m
-
-    public size() {
-
-    }
-
-    public get() {
+    public int size() {
 
     }
 
-    public set() {
+    public E get(int index) {
+
+    }
+
+    public E set(int index) {
+
+    // add element to end of list.
+        // null elements not allowed.
+
+    }
+
+
+    public boolean add(E element) {
+
+    }
+
+    public void add(int index, E element) throws IndexOutOfBoundsException {
 
 
     }
 
-    public add() {
+    public E remove(int index) throws IndexOutOfBoundsException {
 
     }
 
-    public remove() {
 
-    }
 
 
     //g&s
-    public Node getHead() {
+    public Node<E> getHead() {
         return head;
     }
 
-    public void setHead(Node head) {
+    public void setHead(Node<E> head) {
         this.head = head;
     }
 
-    public Node getTail() {
+    public Node<E> getTail() {
         return tail;
     }
 
-    public void setTail(Node tail) {
+    public void setTail(Node<E> tail) {
         this.tail = tail;
     }
 

@@ -2,18 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/puzzles/puzzlers/CostOfApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spraul/luhnvalidation/Luhn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spraul/luhnvalidation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/students.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/students.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sorting/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sorting/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Strings/StringEquivalency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/AnonymousArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/LoopThroughTwoArraysAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/MultiDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/OneDimensionalIntArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/OneDimensionalStringArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/SumUpValuesInAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/array/TwoDimensionalStringArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/CollectionConcepts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/CollectionConcepts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/commongotcha/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/lists/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/lists/Shipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/collections/warburton/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/DefaultConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/DefaultConstructorAsCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructorchaining/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructorchaining/constructorchaining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/constructors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/overloadedconstructors/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/constructors/overloadedconstructors/OverloadedConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/InitializationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/fieldinitializers/FieldInitializers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/flight/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/flight/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/initializers/initializerblock/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/FlightMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/parameters/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/constructorsandinitializers/variablenumberofparameters/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElseBlockStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/IfElseChained.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/NestedIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/do_while_loop/DoWhileLoopExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/enhanced_for/EnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/for_loop/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/controlflow/loops/while_loop/WhileLoopExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/datatypes/Datatypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/encapsulation/gettersandsetters/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/equality/equalityoperator/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/equality/equalsmethod/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/equality/overriddenequalsmethod/Complex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/equality/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/exceptions/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/exceptions/example/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/exceptions/example/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/exceptions/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/exceptions/throwskeyword/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/Birds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/CrewMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/FlightCrewJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/enums/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/finalfields/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/staticfinalfield/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/fields/staticfinalfield/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/generics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/generics/Olive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/CargoOnlyPilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/FullLicensePilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/Pilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/abstractkeyword/abstract methods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/CargoFlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/constructors/FlightMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/extendskeyword/CargoFlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/extendskeyword/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/finalkeyword/FinalMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/finalkeyword/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/inheritance/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/interfaces/comparable/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/interfaces/comparable/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/interfaces/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/logicaloperators/LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/loops/forloop/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/InputTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/inputtaker/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/methods/returnstatement/returnboolean/CargoFlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/multithreading/demo1/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/primitivecasting/Downcasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/primitivecasting/Downcasting_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/NumberOfCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSentences/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSentences/NumberOfSentences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSyllables/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfSyllables/NumberOfSyllables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfWords/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/regex/test/TestRegex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/scanner/SystemIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/scratch/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/scratch/Scratch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticimport/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticinitializationblock/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticvariable/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/statickeyword/staticvariable/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/stringbuilder/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/stringbuilder/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/stringclass/ConvertNonStringTypetToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/stringclass/StringEquality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/stringclass/tostring/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/superkeyword/Complex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/CarMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/thiskeyword/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Equality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/Wrappers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/wrapperclasses/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/EqualsEqualsOperator/NewStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/FindAndReplaceChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/HasLetter/HasLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/HasLetter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coursera/stringconcat/Concatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/GrabStocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/StockGrabber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/StockObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/observer/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/abstract_factory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/client/AbstractFactoryClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/concrete_classes_shapes/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/factory_classes/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/factory_producer/FactoryProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/interfaces/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/abstractfactory/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/abstract_superclass/Plan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/client/GenerateBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/CommercialPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/DomesticPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/concrete_classes/NonProfitPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/factory/GetPlanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/factorymethod/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpatterns/creational/singleton/SingletonInstantiator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/one/FirstRecurringCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/IsUniqueCharacterUsingSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/one/isunique/set/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/area/square/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/area/square/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/area/triangle/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/exponents/FunWithExponents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/EndOfCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/OperationSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/One.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Six.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Three.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/percentage/operations/Two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/systemofequations/SystemOfEquations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/HalfSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/SidewaysTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/PrintLoops/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/FibonacciForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/FibonacciWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/fibonacci/IsThisNumberFibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/puzzlers/CostOfApple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/olives/Olive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/olives/OliveName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/isunique/test1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/isunique/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spraul/luhnvalidation/Luhn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spraul/luhnvalidation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/leapyear/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/leapyear/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variablescope/VariableScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/ConsoleColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/ObjectSwapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/TypeTester.java" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,115 +225,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sorting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/Sorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountSpacesAndReplace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\ammar.DESKTOP-BOK7151\.m2\repository\junit\junit\4.12\junit-4.12.jar</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,15 +246,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interview/one/isunique/IsUniqueCharacterUsingBooleanArray.java" />
-        <option value="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java" />
-        <option value="$PROJECT_DIR$/src/interview/one/isunique/booleanarray/Runner.java" />
-        <option value="$PROJECT_DIR$/src/interview/one/isunique/IsUniqueCharacterUsingSet.java" />
-        <option value="$PROJECT_DIR$/src/interview/one/isunique/set/Runner.java" />
-        <option value="$PROJECT_DIR$/src/xyz/ConsoleColor.java" />
-        <option value="$PROJECT_DIR$/src/math/systemofequations/SystemOfEquations.java" />
-        <option value="$PROJECT_DIR$/src/core/loops/forloop/ForLoop.java" />
-        <option value="$PROJECT_DIR$/src/core/scratch/scratch.java" />
         <option value="$PROJECT_DIR$/src/core/scratch/Scratch.java" />
         <option value="$PROJECT_DIR$/src/coursera/Main.java" />
         <option value="$PROJECT_DIR$/src/core/scratch/Main.java" />
@@ -188,7 +287,16 @@
         <option value="$PROJECT_DIR$/src/algorithms/sorting/LinkedList/Doubly/Main.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/LinkedList/Doubly/Node.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/LinkedList/Doubly/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Main.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java" />
         <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -197,6 +305,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
@@ -229,6 +344,17 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -246,63 +372,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="Doubly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="puzzles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="puzzles" type="462c0819:PsiDirectoryNode" />
-              <item name="puzzlers" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,6 +384,8 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/dev/WORKSPACE/intellijworkspace/students/src/core/scratch/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../aspr" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -324,11 +395,17 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="algorithms.LinkedList.Doubly" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="puzzles" />
       <recent name="coursera.findandreplacecharacter" />
       <recent name="coursera.equalsequalsoperator" />
       <recent name="coursera.equalsequalsoperator.findandreplacecharacter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\WORKSPACE\intellijworkspace\students\src\resources\isunique\isunique" />
@@ -529,15 +606,19 @@
       <workItem from="1528850387578" duration="49000" />
       <workItem from="1529290891074" duration="2509000" />
       <workItem from="1529437069068" duration="7289000" />
+      <workItem from="1529542486423" duration="4084000" />
+      <workItem from="1529872093262" duration="10451000" />
+      <workItem from="1530064997955" duration="1039000" />
+      <workItem from="1530385184945" duration="6301000" />
+      <workItem from="1530399511670" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122170000" />
+    <option name="totallyTimeSpent" value="144671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,6 +636,7 @@
       <window_info id="Designer" order="4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22638564" />
       <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.108333334" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -565,7 +647,6 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.18597236" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -575,14 +656,14 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26086956" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Project" order="0" weight="0.116145834" />
       <window_info id="Structure" order="1" weight="0.108333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26086956" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -592,7 +673,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -613,148 +694,119 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/resources/test1.txt" />
-    <entry file="file://$PROJECT_DIR$/src/resources/isunique/test2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" selection-start-column="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/isunique/test1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/one/FirstRecurringCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/one/isunique/IsUniqueCharacterUsingSet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/IsUniqueCharacterUsingSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/one/isunique/set/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/set/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/xyz/ConsoleColor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/ConsoleColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpatterns/behavioral/observer/readme">
+    <entry file="file://$PROJECT_DIR$/src/main/java/designpatterns/behavioral/observer/readme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/scratch/Scratch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/scratch/Scratch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/scratch/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/scratch/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/loops/forloop/ForLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/loops/forloop/ForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/systemofequations/SystemOfEquations.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/math/systemofequations/SystemOfEquations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/inheritance/abstractkeyword/CargoOnlyPilot.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/inheritance/abstractkeyword/CargoOnlyPilot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/one/isunique/booleanarray/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Strings/StringEquivalency.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/Strings/StringEquivalency.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/FindAndReplaceCharacter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/stringconcat/Concatenation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/stringconcat/Concatenation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfCharacters/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfCharacters/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfCharacters/NumberOfCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfCharacters/NumberOfCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfSentences/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfSentences/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfSentences/NumberOfSentences.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfSentences/NumberOfSentences.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
@@ -768,227 +820,230 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/test/TestRegex.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/test/TestRegex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/test/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/EqualsEqualsOperator/NewStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/EqualsEqualsOperator/NewStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfSyllables/NumberOfSyllables.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfSyllables/NumberOfSyllables.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfSyllables/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfSyllables/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfWords/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/HasLetter/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/HasLetter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/puzzles/PrintLoops/SidewaysTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/puzzles/PrintLoops/SidewaysTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/puzzles/PrintLoops/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/puzzles/PrintLoops/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/puzzles/PrintLoops/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/puzzles/PrintLoops/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/puzzles/PrintLoops/HalfSquare.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/puzzles/PrintLoops/HalfSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/HasLetter/HasLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/HasLetter/HasLetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/CountSpacesAndReplace/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/FindAndReplaceCharacter/FindAndReplaceChar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/FindAndReplaceCharacter/FindAndReplaceChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfWords.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/logicaloperators/LogicalOperators.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/logicaloperators/LogicalOperators.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spraul/luhnvalidation/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spraul/luhnvalidation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spraul/luhnvalidation/Luhn.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spraul/luhnvalidation/Luhn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/puzzles/puzzlers/CostOfApple.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/puzzles/puzzlers/CostOfApple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/CountSpacesAndReplace/CountSpacesAndReplace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Singly/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Singly/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/sorting/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/Sorting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/sorting/Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LinkedList/Doubly/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
