@@ -1,8 +1,5 @@
 package datastructures.LinkedList.Doubly;
 
-/* stores the overall properties of this list - perhaps its size.
-   but more importantly, a reference to the first node in the list and the last node in the list
-*/
 
 public class MyLinkedList<E> {
 
@@ -21,28 +18,62 @@ public class MyLinkedList<E> {
         tail = tail.prev = head;
     }
 
+
     //m
+
     public int size() {
+
 
     }
 
     public E get(int index) {
 
+        if (index < 0 || index > size - 1) {
+            throw new IndexOutOfBoundsException("Index does not exist");
+        }
+        Node<E> target = head;
+
+        for (int i = 0; i <= index; i++) {
+            target = target.next;
+        }
+        E value = target.data;
+        return value;
+
     }
 
-    public E set(int index) {
 
-    // add element to end of list.
-        // null elements not allowed.
+    public E set(int index, E element) {
+
 
     }
+
 
 
     public boolean add(E element) {
 
+        if (element == null) {
+            throw new NullPointerException("data must not be null");
+        }
+
+        try {
+            Node<E> newNode = new Node<>(element);
+            newNode.next = tail;
+            newNode.prev = tail.prev;
+            tail.prev.next = newNode;
+            tail.prev = newNode;
+            size++;
+        } catch
+                (Exception e) {
+        }
+        return true;
     }
 
+/*
     public void add(int index, E element) throws IndexOutOfBoundsException {
+
+
+
+
 
 
     }
@@ -50,8 +81,6 @@ public class MyLinkedList<E> {
     public E remove(int index) throws IndexOutOfBoundsException {
 
     }
-
-
 
 
     //g&s
@@ -79,5 +108,5 @@ public class MyLinkedList<E> {
         this.size = size;
     }
 
-    */
+*/
 }

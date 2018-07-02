@@ -25,6 +25,10 @@ public class Node<E> {
     public Node(E data) {
 
         this.data = data;
+        this.prev = null;
+        this.next = null;
+
+
     }
 
 

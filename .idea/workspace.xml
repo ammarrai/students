@@ -2,40 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/students.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/students.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/collections/warburton/commongotcha/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/collections/warburton/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructorchaining/constructorchaining" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/constructors/constructors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/constructorsandinitializers/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/equality/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/exceptions/example/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/exceptions/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/fields/finalfields/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/fields/staticfinalfield/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/inheritance/abstractkeyword/abstract methods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/inheritance/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/interfaces/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticimport/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/statickeyword/staticinitializationblock/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/stringbuilder/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/core/wrapperclasses/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/behavioral/observer/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/creational/abstractfactory/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/designpatterns/creational/factorymethod/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/resources/isunique/test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/students/resources/isunique/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Singly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructures/LinkedList/Doubly/TestDoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,49 +21,111 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/students$Main.ic" NAME="Main Coverage Results" MODIFIED="1530503975201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>algorithms.sorting.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="students" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstRecurringCharacter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/FirstRecurringCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="1870">
+              <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsUniqueCharacterUsingBooleanArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
+      <file leaf-file-name="MarkovTextGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="24">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <folding>
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test1">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test2">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="NewDayNote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopUp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Datatypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/core/datatypes/Datatypes.java">
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="-177">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -97,8 +135,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -113,16 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/core/scratch/Main.java" />
-        <option value="$PROJECT_DIR$/src/coursera/ForEachLoops.java" />
-        <option value="$PROJECT_DIR$/src/coursera/FindAndReplaceChar.java" />
-        <option value="$PROJECT_DIR$/src/core/regex/Main.java" />
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords.java" />
-        <option value="$PROJECT_DIR$/src/core/Strings/StringEquivalency.java" />
-        <option value="$PROJECT_DIR$/src/coursera/equalsequalsoperator/findandreplacecharacter/FindAndReplaceChar.java" />
-        <option value="$PROJECT_DIR$/src/coursera/stringconcat/Concatenation.java" />
-        <option value="$PROJECT_DIR$/src/coursera/CountSpacesAndReplace/Main.java" />
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfWords.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfCharacters.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfCharacters/NumberOfCharacters.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/Main.java" />
@@ -163,7 +191,17 @@
         <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/algorithms/LinkedList/Doubly/TestDoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/MarkovChain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/MarkovChain/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/MarkovChain/MarkovTextGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java" />
       </list>
     </option>
   </component>
@@ -242,64 +280,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="Doubly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="isunique" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="isunique" type="462c0819:PsiDirectoryNode" />
-              <item name="booleanarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Doubly" type="462c0819:PsiDirectoryNode" />
+              <item name="NewDayNote" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,6 +330,7 @@
       <recent name="algorithms.LinkedList.Doubly" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="datastructures" />
       <recent name="puzzles" />
       <recent name="coursera.findandreplacecharacter" />
       <recent name="coursera.equalsequalsoperator" />
@@ -373,39 +355,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.NewDayNote">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="CostOfApple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="puzzles.puzzlers.CostOfApple" />
-      <module name="students" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="puzzles.puzzlers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.one.isunique.booleanarray.Main" />
-      <module name="students" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.one.isunique.booleanarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.Main" />
+      <option name="MAIN_CLASS_NAME" value="datastructures.LinkedList.Doubly.Main" />
       <module name="students" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.sorting.*" />
+          <option name="PATTERN" value="datastructures.LinkedList.Doubly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.MarkovChain.Main" />
+      <module name="students" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.MarkovChain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,24 +392,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SidewaysTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="puzzles.PrintLoops.SidewaysTriangle" />
+    <configuration name="NewDayNote (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ammar.NewDayNote" />
       <module name="students" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="puzzles.PrintLoops.*" />
+          <option name="PATTERN" value="com.ammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="puzzles.PrintLoops.Triangle" />
+    <configuration name="NewDayNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diskIO.NewDayNote.NewDayNote" />
       <module name="students" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="puzzles.PrintLoops.*" />
+          <option name="PATTERN" value="diskIO.NewDayNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,21 +469,25 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.SidewaysTriangle" />
-      <item itemvalue="Application.Triangle" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CostOfApple" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.NewDayNote" />
+      <item itemvalue="Application.NewDayNote (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.CostOfApple" />
+        <item itemvalue="Application.NewDayNote" />
+        <item itemvalue="Application.NewDayNote (1)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SidewaysTriangle" />
-        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\ammar\AppData\Roaming\Subversion</configuration>
@@ -560,12 +535,13 @@
       <workItem from="1529872093262" duration="10451000" />
       <workItem from="1530064997955" duration="1039000" />
       <workItem from="1530385184945" duration="6301000" />
-      <workItem from="1530399511670" duration="1831000" />
+      <workItem from="1530399511670" duration="12419000" />
+      <workItem from="1530486350968" duration="24062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145876000" />
+    <option name="totallyTimeSpent" value="180526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -575,31 +551,32 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Flutter Outline" order="5" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.108333334" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.6241135" visible="true" weight="0.099595144" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43485618" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42605633" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.18443316" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.18309858" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" order="2" />
+      <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.250423" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1637324" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.37588653" side_tool="true" weight="0.12226721" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22638564" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50176054" visible="true" weight="0.23076923" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" sideWeight="0.49823943" side_tool="true" weight="0.21214575" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="10" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32943678" />
     </layout>
@@ -607,14 +584,14 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26086956" />
       <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Project" order="0" weight="0.116145834" />
       <window_info id="Structure" order="1" weight="0.108333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26086956" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -624,7 +601,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -641,52 +618,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/scratch/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/loops/forloop/ForLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/systemofequations/SystemOfEquations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/inheritance/abstractkeyword/CargoOnlyPilot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/Strings/StringEquivalency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/FindAndReplaceCharacter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/coursera/stringconcat/Concatenation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -834,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/logicaloperators/LogicalOperators.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -890,16 +818,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/LinkedList/Doubly/Test.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -921,24 +840,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Singly/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -963,17 +868,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/FirstRecurringCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/datatypes/Datatypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -984,17 +882,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/datatypes/Datatypes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/isunique/booleanarray/IsUniqueCharacterUsingBooleanArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="188">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/one/FirstRecurringCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

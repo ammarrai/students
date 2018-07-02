@@ -12,7 +12,7 @@ public class NumberOfWords {
             return 0;
         }
 
-        words = text.split("[\\w'_]+");
+        words = text.split("[\\w'_-]+");
         System.out.println(words.length);
 
         return words.length;
