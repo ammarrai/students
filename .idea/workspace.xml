@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="MarkovChain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="253">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/notes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -80,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/NumberOfCharacters.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/Main.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfSentences/Main.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfSentences/NumberOfSentences.java" />
@@ -131,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/notes.txt" />
       </list>
     </option>
   </component>
@@ -482,12 +488,12 @@
       <workItem from="1530064997955" duration="1039000" />
       <workItem from="1530385184945" duration="6301000" />
       <workItem from="1530399511670" duration="12419000" />
-      <workItem from="1530486350968" duration="33267000" />
+      <workItem from="1530486350968" duration="34870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189731000" />
+    <option name="totallyTimeSpent" value="191334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -501,20 +507,20 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Structure" order="5" sideWeight="0.6241135" visible="true" weight="0.11093117" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.6241135" visible="true" weight="0.048582997" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33450705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29577464" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.18309858" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28697184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28697184" />
       <window_info anchor="right" id="Coverage" sideWeight="0.37588653" side_tool="true" weight="0.12226721" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50176054" visible="true" weight="0.23076923" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50176054" visible="true" weight="0.24129555" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3274648" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="5" sideWeight="0.49823943" side_tool="true" weight="0.21214575" />
@@ -564,17 +570,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="27" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java</url>
+          <line>11</line>
+          <properties class="datastructures.MarkovChain.MarkovChain" method="train">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfCharacters/NumberOfCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfSentences/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -892,16 +901,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Train.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -912,10 +911,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>

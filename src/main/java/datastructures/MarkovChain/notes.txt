@@ -1,0 +1,22 @@
+Keep all words in the same list. No need to keep capitalized words, or words ending in periods
+in separate lists.
+
+Example:
+
+if "." in word:
+    if not next_word[0].isupper():
+         # Select a different word
+
+Words with periods after them won't be in the middle of a sentence.
+But this is good. It makes it easier to generate more accurate sentences, rather than ending in
+the middle of a sentence.
+
+Assuming I give a gigantic sample of text, there will be plenty of words that are like
+
+"This", "this", "this.".
+
+----------------------------
+
+Conversely, use <END> tokens.
+
+Example: "This is going really well <END> This is fun <END>"
