@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d416cbf8-4a1b-43f5-810e-e7bfd390774d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/regex/NumberOfWords/NumberOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,61 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
+      <file leaf-file-name="MarkovChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarkovTextGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test1">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="test2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test2">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="NewDayNote.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PopUp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -93,39 +50,11 @@
       <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -151,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfCharacters.java" />
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/NumberOfCharacters/NumberOfCharacters.java" />
-        <option value="$PROJECT_DIR$/src/core/regex/NumberOfWords/Main.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/NumberOfCharacters.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfCharacters/Main.java" />
         <option value="$PROJECT_DIR$/src/core/regex/NumberOfSentences/Main.java" />
@@ -198,10 +124,13 @@
         <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/MarkovChain/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/MarkovChain/MarkovTextGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Train.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java" />
       </list>
     </option>
   </component>
@@ -280,7 +209,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NewDayNote" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="MarkovChain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isunique" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewDayNote">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -477,9 +423,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.NewDayNote" />
         <item itemvalue="Application.NewDayNote (1)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
       </list>
@@ -536,12 +482,12 @@
       <workItem from="1530064997955" duration="1039000" />
       <workItem from="1530385184945" duration="6301000" />
       <workItem from="1530399511670" duration="12419000" />
-      <workItem from="1530486350968" duration="24062000" />
+      <workItem from="1530486350968" duration="33267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180526000" />
+    <option name="totallyTimeSpent" value="189731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -555,26 +501,26 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Structure" order="5" sideWeight="0.6241135" visible="true" weight="0.099595144" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.6241135" visible="true" weight="0.11093117" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42605633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33450705" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.18309858" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1637324" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28697184" />
       <window_info anchor="right" id="Coverage" sideWeight="0.37588653" side_tool="true" weight="0.12226721" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50176054" visible="true" weight="0.23076923" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50176054" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3274648" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="5" sideWeight="0.49823943" side_tool="true" weight="0.21214575" />
       <window_info anchor="right" id="Flutter Inspector" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="10" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -618,24 +564,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/stringconcat/Concatenation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfCharacters/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/regex/NumberOfCharacters/NumberOfCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -903,30 +835,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="1870">
+          <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -937,48 +862,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/LinkedList/Doubly/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
+        <state relative-caret-position="340">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovTextGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="1139">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
           <folding>
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test1">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Train.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/isunique/test2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/NewDayNote.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/MarkovChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/diskIO/NewDayNote/PopUp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructures/MarkovChain/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -4,9 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MarkovTextGenerator mtg = new MarkovTextGenerator();
-
-        mtg.train("1 2 3. Okay, See you soon!");
+        MarkovChain mkc = new MarkovChain();
+        mkc.train("This is going really well. This is fun.");
 
     }
 

@@ -6,29 +6,27 @@ import java.util.Random;
 
 public class ListNode {
 
-    private String word;
-    private List<String> nextWords;
+    String word;
+    List<String> nextWords;
 
 
-    ListNode(String word){
+    ListNode(String word) {
 
         this.word = word;
         nextWords = new LinkedList<String>();
     }
 
-    public void addNextWord(String nextWord){
+    public void addNextWord(String nextWord) {
 
         nextWords.add(nextWord);
     }
 
-    public String getRandomNextWord(Random generator)
-    {
+    public String getRandomNextWord(Random generator) {
         return null;
     }
 
 
-    public String toString()
-    {
+    public String toString() {
         String toReturn = word + ": ";
         for (String s : nextWords) {
             toReturn += s + "->";
