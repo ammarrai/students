@@ -8,12 +8,16 @@ import java.util.Random;
 public class MarkovChain {
 
 
-    private List<ListNode> wordList = new ArrayList<>();
+    public List<ListNode> wordList = new ArrayList<>();
+
 
     public void train(String sourceText) {
 
         Objects.requireNonNull(sourceText, "sourceText cannot be null");
         String[] source = sourceText.split("\\W+");
+        // [\w']*\p{L}*\w[\w.]*(?:-\w+.)?    To be used in a Matcher expression later.
+
+
         int length = source.length - 1;
         boolean flag = false;
         int position = 0;
