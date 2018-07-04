@@ -13,7 +13,7 @@ public class ListNode {
     ListNode(String word) {
 
         this.word = word;
-        nextWords = new LinkedList<String>();
+        nextWords = new LinkedList<>();
     }
 
     public void addNextWord(String nextWord) {
