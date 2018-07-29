@@ -1,3 +1,37 @@
 JSR 335 - Lambda Expressions
 
-Often used to replace anonymous inner classes.
+Often used to replace anonymous inner classes. If you recall, Anonymous inner classes are decalred
+by using the Object class. Like so:
+
+new Object() {
+
+    anonymousMethod(){
+
+    }
+
+}
+
+
+This method is then called like so:
+
+.anonymousMethod()
+
+----------------------------------
+Two new packages added to Java 8:
+
+java.util.function
+java.util.stream
+
+---------------------------------
+
+What is a functional interface?
+
+An interface that contains at least one abstract method.
+represents abstract concepts such as functions, actions, or predicates.
+
+predicates - take one argument, return a boolean.
+consumer - accepts a single argument with no return value.
+function - accepts one argument and produces a result.
+supplier - do not accept arguments, but produces a result of a given type.
+unary operator - single argument with a return value.
+binary operator - takes two arguments and returns one.

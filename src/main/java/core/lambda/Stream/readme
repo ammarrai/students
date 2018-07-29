@@ -1,0 +1,24 @@
+not related to java.io.stream.
+
+a stream represents a sequence of elements.
+
+in java 8, the stream package was added to traverse collections.
+
+most stream operations take a lambda expression.
+
+stream operations are categorized as intermediate or terminal.
+
+terminal operations are either void, or return a type.
+
+intermediate operations return the stream itself.
+
+common used operations include map, filter, and forEach
+
+map and filter are intermediate operations, they allow us to map
+one value to another or to filter a result using a predicate.
+
+forEach is a terminal operator.
+
+sorted() and collect() are also two very helpful operations.
+    sorted() is an intermediate operation.
+
