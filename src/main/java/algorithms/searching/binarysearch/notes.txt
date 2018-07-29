@@ -1,0 +1,33 @@
+In a Binary Search Tree (BST):
+
+the left sub-tree is lesser than the parent.
+
+the right sub-tree is greater than the parent.
+
+     E
+   B   M
+ A C   L Q
+
+
+ Another example:
+
+     42
+     /
+   32
+   /
+ 12
+
+This is valid as all the numbers in the left-subtree(s) are smaller.
+Even though there's no right-subtree to this.
+
+--------------
+
+How does searching actually work?
+
+Let's say we're trying to find C from the above example.
+
+Is "E == C"? no
+E is greater than C. Therefore, we search in the LEFT sub-tree, for values that are smaller than E.
+Is "B == C"? no
+B is smaller than C. Therefore, we search in the right sub-tree.
+Is "C == C" Yes.

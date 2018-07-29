@@ -14,6 +14,12 @@ public class MarkovChain {
     public void train(String sourceText) {
 
         Objects.requireNonNull(sourceText, "sourceText cannot be null");
+
+        String emptyString = new String();
+
+        if (sourceText.isEmpty())
+            return;
+
         String[] source = sourceText.split("\\W+");
         // [\w']*\p{L}*\w[\w.]*(?:-\w+.)?    To be used in a Matcher expression later.
 
@@ -69,10 +75,19 @@ public class MarkovChain {
             }
         }
 
+
         System.out.println("Training Complete.");
     }
 
+
+
     public String generateText(int numWords) {
+
+        if (wordList.isEmpty()) {
+            String nothing = new String("No text generated.");
+            System.out.println(nothing);
+            return nothing;
+        }
 
         int runThisManyIterations;
         boolean plusOne = false;
